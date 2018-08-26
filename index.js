@@ -9,7 +9,7 @@ return empty
 function johnLennonFacts(facts){
   var length = facts.length  
   while(length>=0){
-    facts[length]= `${facts[length]} !!!` 
+    facts[length]= `${facts[length]}!!!` 
     length--
   }
   return facts
