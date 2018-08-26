@@ -7,7 +7,7 @@ return empty
 }
 
 function johnLennonFacts(facts){
-  var length = facts.length  
+  var length = facts.length-1  
   while(length>=0){
     facts[length]= `${facts[length]}!!!` 
     length--
