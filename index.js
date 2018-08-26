@@ -13,4 +13,5 @@ function johnLennonFacts(facts){
     length--
   }
   return facts
-}
+} 
+function iLoveTheBeatles()
